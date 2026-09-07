@@ -38,7 +38,7 @@
     "layout/json_cv"
 ;
 
-/* থিম চেঞ্জার বা সেটিংস আইকন লুকিয়ে ফেলার জন্য */
-.settings, .theme-switcher, button.search__toggle, .mode-switch {
+/* থিম মোড টগল বাটন এবং গাইড মেনু লুকানোর জন্য */
+.toggle-theme, button.toggle-theme, .fas.fa-adjust, .fa-moon, .fa-sun {
   display: none !important;
 }
