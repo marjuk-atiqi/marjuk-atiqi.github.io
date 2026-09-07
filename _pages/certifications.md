@@ -33,7 +33,7 @@ title: "Professional Certifications"
   <div style="flex-grow: 1;">
     <h3 style="margin: 0 0 6px 0; font-size: 1.2rem; color: #1f2937;">Oracle Database SQL Certified Expert</h3>
     <p style="margin: 0 0 10px 0; color: #4b5563; font-size: 0.95rem; font-weight: 600;">
-      Oracle University, USA &nbsp;|&nbsp; Issued: 2012
+      Oracle University, USA &nbsp;|&nbsp; Issued: June 04, 2012
     </p>
     <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
       <span style="color: #6b7280; font-size: 0.9rem;">Credential ID: 12345678</span>
@@ -52,7 +52,7 @@ title: "Professional Certifications"
   <div style="flex-grow: 1;">
     <h3 style="margin: 0 0 6px 0; font-size: 1.2rem; color: #1f2937;">Oracle PLSQL Developer Certified Associate</h3>
     <p style="margin: 0 0 10px 0; color: #4b5563; font-size: 0.95rem; font-weight: 600;">
-      Oracle University, USA &nbsp;|&nbsp; Issued: 2012
+      Oracle University, USA &nbsp;|&nbsp; Issued: July 03, 2012
     </p>
     <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
       <span style="color: #6b7280; font-size: 0.9rem;">Credential ID: 12345678</span>
@@ -71,7 +71,7 @@ title: "Professional Certifications"
   <div style="flex-grow: 1;">
     <h3 style="margin: 0 0 6px 0; font-size: 1.2rem; color: #1f2937;">Oracle Forms Developer Certified Professional</h3>
     <p style="margin: 0 0 10px 0; color: #4b5563; font-size: 0.95rem; font-weight: 600;">
-      Oracle University, USA &nbsp;|&nbsp; Issued: 2012
+      Oracle University, USA &nbsp;|&nbsp; Issued: October 03, 2012
     </p>
     <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
       <span style="color: #6b7280; font-size: 0.9rem;">Credential ID: 12345678</span>
