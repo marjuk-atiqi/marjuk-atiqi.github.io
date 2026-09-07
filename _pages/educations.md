@@ -5,7 +5,7 @@ title: "Educations"
 
 <style>
   .edu-card {
-    background: #ffffff;
+    background: #fafafa;
     border-left: 4px solid #0f172a;
     border-radius: 8px;
     padding: 24px;
