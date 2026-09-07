@@ -14,3 +14,23 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+
+<style>
+  @media (min-width: 1024px) {
+    /* সাইডবার চওড়া করার জন্য */
+    .sidebar {
+      width: 320px !important; /* আপনি চাইলে 320px এর জায়গায় 350px দিয়ে আরও বড় করতে পারেন */
+    }
+    
+    /* ডানদিকের মেইন কন্টেন্ট যেন সাইডবারের নিচে ঢুকে না যায় */
+    .page, .archive {
+      width: calc(100% - 340px) !important; 
+      float: right !important;
+    }
+    
+    /* সাইডবারের সাথে প্রোফাইল ছবিটা মানানসই করার জন্য */
+    .author__avatar img {
+      max-width: 160px !important; 
+    }
+  }
+</style>
