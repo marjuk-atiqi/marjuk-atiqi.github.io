@@ -9,19 +9,19 @@
 
 main:
   - title: "Projects"
-    url: /Projects/
+    url: /projects/
 
   - title: "Experiences"
-    url: /Experiences/    
+    url: /experiences/    
 
   - title: "Educations"
-    url: /Educations/    
+    url: /educations/    
     
   - title: "Skills"
-    url: /Skills/
+    url: /skills/
         
   - title: "Certifications"
-    url: /Certifications/
+    url: /certifications/
     
   - title: "CV"
     url: /cv/
