@@ -16,7 +16,7 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
       <li>Agile, Scrum & Waterfall Methodologies</li>
       <li>Resource Allocation & Budget Tracking</li>
       <li>Cross-functional Team Leadership</li>
-      <li>Project Tracking (JIRA, ClickUp)</li>
+      <li>Project Tracking Tools (JIRA, ClickUp)</li>
     </ul>
   </div>
 
@@ -24,10 +24,12 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
   <div style="flex: 1; min-width: 250px; background: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #0f172a; border-radius: 8px; padding: 24px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
     <h3 style="margin-top: 0; font-size: 1.15rem; color: #0f172a; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 15px;">Business Analysis</h3>
     <ul style="padding-left: 20px; color: #475569; font-size: 0.95rem; line-height: 1.8; margin-bottom: 0;">
+      <li>SDLC</li>
       <li>BRD & SRS Documentation</li>
       <li>Complex Requirement Gathering</li>
       <li>User Acceptance Testing (UAT)</li>
       <li>Business Process Optimization</li>
+      <li>Digital Transformation</li>
     </ul>
   </div>
 
@@ -51,8 +53,8 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
   <div style="flex: 1; min-width: 250px; background: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #0f172a; border-radius: 8px; padding: 24px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
     <h3 style="margin-top: 0; font-size: 1.15rem; color: #0f172a; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 15px;">Database & Programming</h3>
     <ul style="padding-left: 20px; color: #475569; font-size: 0.95rem; line-height: 1.8; margin-bottom: 0;">
-      <li>Oracle Database (10g) & Developer Suite</li>
-      <li>Advanced SQL & PL/SQL Scripting</li>
+      <li>Database: Oracle (10g), PostgreSQL</li>
+      <li>Language SQL & PL/SQL Scripting</li>
       <li>Oracle Forms & Reports Customization</li>
       <li>Database Triggers & Stored Procedures</li>
     </ul>
