@@ -28,20 +28,20 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Driving enterprise success through ERP specialization, strategic project management, and business analysis. Certified in Database Design & Development by Oracle University, USA."
   location         : "Dhaka,Bangladesh"
-  employer         : "Red Brick University"
+ # employer         : "Red Brick University"
   uri              : # URL
   email            : "marjuk.careerinfo@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : ""
+ # googlescholar    : ""
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : ""
+ # orcid            : ""
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : ""
+ # pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
