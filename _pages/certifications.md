@@ -8,7 +8,7 @@ title: "Professional Certifications"
   
   <!-- ছোট থাম্বনেইল বা ব্যাজ (এটিতে ক্লিক করলে পপআপ হবে না, শুধু নরমাল দেখাবে) -->
   <div style="flex-shrink: 0;">
-    <img src="/images/your-certificate.png" alt="Certificate Badge" style="width: 70px; height: 70px; object-fit: cover; border-radius: 6px; border: 1px solid #e2e8f0;">
+    <img src="/images/oracle-sql-cert.png" alt="Certificate Badge" style="width: 70px; height: 70px; object-fit: cover; border-radius: 6px; border: 1px solid #e2e8f0;">
   </div>
 
   <!-- সার্টিফিকেটের বিবরণ -->
@@ -20,7 +20,7 @@ title: "Professional Certifications"
     <p style="margin: 0; color: #6b7280; font-size: 0.9rem;">
       Credential ID: 12345678 
       <!-- শুধু এই বাটনে ক্লিক করলেই পপআপ প্রিভিউ দেখাবে -->
-      <span style="color: #1877F2; cursor: pointer; margin-left: 10px; font-weight: 600;" onclick="openModal('/images/your-certificate.png')">[View Certificate]</span>
+      <span style="color: #1877F2; cursor: pointer; margin-left: 10px; font-weight: 600;" onclick="openModal('/images/oracle-sql-cert.png')">[View Certificate]</span>
     </p>
   </div>
 </div>
