@@ -7,7 +7,7 @@ title: "Professional Certifications"
   
   <!-- সার্টিফিকেটের ইমেজ বা লোগো রাখার জায়গা -->
   <div style="flex-shrink: 0;">
-    <img src="/images/your-certificate.png" alt="Certificate Badge" style="width: 80px; height: 80px; object-fit: cover; border-radius: 6px; border: 1px solid #e2e8f0;">
+    <img src="/images/oracle-sql-cert.png" alt="Certificate Badge" style="width: 80px; height: 80px; object-fit: cover; border-radius: 6px; border: 1px solid #e2e8f0;">
   </div>
 
   <!-- সার্টিফিকেটের বিবরণ -->
