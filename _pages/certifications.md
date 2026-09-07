@@ -64,7 +64,7 @@ title: "Professional Certifications"
 
   <!-- সার্টিফিকেটের বিবরণ -->
   <div style="flex-grow: 1;">
-    <h3 style="margin: 0 0 6px 0; font-size: 1.2rem; color: #1f2937;">Oracle PLSQL Developer Certified Associate (PL-SQL)</h3>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.2rem; color: #1f2937;">Oracle PLSQL Developer Certified Associate</h3>
     <p style="margin: 0 0 10px 0; color: #4b5563; font-size: 0.95rem; font-weight: 600;">
       Oracle University, USA &nbsp;|&nbsp; Issued: 2012
     </p>
@@ -114,7 +114,7 @@ title: "Professional Certifications"
 
   <!-- সার্টিফিকেটের বিবরণ -->
   <div style="flex-grow: 1;">
-    <h3 style="margin: 0 0 6px 0; font-size: 1.2rem; color: #1f2937;">Oracle Forms Developer Certified Professional (OCP)</h3>
+    <h3 style="margin: 0 0 6px 0; font-size: 1.2rem; color: #1f2937;">Oracle Forms Developer Certified Professional</h3>
     <p style="margin: 0 0 10px 0; color: #4b5563; font-size: 0.95rem; font-weight: 600;">
       Oracle University, USA &nbsp;|&nbsp; Issued: 2012
     </p>
