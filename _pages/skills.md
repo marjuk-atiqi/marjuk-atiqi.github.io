@@ -7,7 +7,7 @@ title: "Skills & Expertise"
   .skill-card {
     flex: 1;
     min-width: 250px;
-    background: #ffffff;
+    background: #fafafa;
     border: 1px solid #e2e8f0;
     border-top: 4px solid #0f172a;
     border-radius: 8px;
