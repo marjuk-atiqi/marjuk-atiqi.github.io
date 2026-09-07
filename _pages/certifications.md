@@ -14,14 +14,18 @@ title: "Professional Certifications"
   <!-- সার্টিফিকেটের বিবরণ -->
   <div style="flex-grow: 1;">
     <h3 style="margin: 0 0 6px 0; font-size: 1.2rem; color: #1f2937;">Oracle Database SQL Certified Expert</h3>
-    <p style="margin: 0 0 8px 0; color: #4b5563; font-size: 0.95rem; font-weight: 600;">
+    <p style="margin: 0 0 10px 0; color: #4b5563; font-size: 0.95rem; font-weight: 600;">
       Oracle University, USA &nbsp;|&nbsp; Issued: 2012
     </p>
-    <p style="margin: 0; color: #6b7280; font-size: 0.9rem;">
-      Credential ID: 12345678 
-      <!-- View Certificate বাটন -->
-      <span style="color: #1877F2; cursor: pointer; margin-left: 10px; font-weight: 600;" onclick="openModal('/images/oracle-sql-cert.png')">[View Certificate]</span>
-    </p>
+    
+    <div style="display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 10px;">
+      <span style="color: #6b7280; font-size: 0.9rem;">Credential ID: 12345678</span>
+      
+      <!-- মডার্ন সলিড ব্লু বাটন -->
+      <button onclick="openModal('/images/oracle-sql-cert.png')" style="background-color: #1877F2; color: #ffffff; border: none; padding: 6px 14px; border-radius: 6px; font-size: 0.85rem; font-weight: 600; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; box-shadow: 0 2px 4px rgba(24,119,242,0.2); transition: background-color 0.2s;" onmouseover="this.style.backgroundColor='#166fe5'" onmouseout="this.style.backgroundColor='#1877F2'">
+        👁️ View Certificate
+      </button>
+    </div>
   </div>
 </div>
 
