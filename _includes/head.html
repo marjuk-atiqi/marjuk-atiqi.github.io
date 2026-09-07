@@ -17,20 +17,22 @@
 
 <style>
   @media (min-width: 1024px) {
-    /* সাইডবার চওড়া করার জন্য */
+    /* সাইডবারের পারফেক্ট মাপ এবং ডানদিকের হালকা বর্ডার */
     .sidebar {
-      width: 320px !important; /* আপনি চাইলে 320px এর জায়গায় 350px দিয়ে আরও বড় করতে পারেন */
+      width: 280px !important; 
+      border-right: 1px solid #e2e8f0 !important; /* ডানদিকের হালকা গ্রে বর্ডার */
+      padding-right: 25px !important; /* বর্ডার থেকে ভেতরের লেখার দূরত্ব */
     }
     
-    /* ডানদিকের মেইন কন্টেন্ট যেন সাইডবারের নিচে ঢুকে না যায় */
+    /* মেইন কন্টেন্ট যেন সাইডবারের বর্ডারের সাথে লেগে না যায় */
     .page, .archive {
-      width: calc(100% - 340px) !important; 
+      width: calc(100% - 330px) !important; 
       float: right !important;
     }
     
-    /* সাইডবারের সাথে প্রোফাইল ছবিটা মানানসই করার জন্য */
+    /* প্রোফাইল ছবির সাইজ সুন্দরভাবে ব্যালান্স করা */
     .author__avatar img {
-      max-width: 160px !important; 
+      max-width: 135px !important; 
     }
   }
 </style>
