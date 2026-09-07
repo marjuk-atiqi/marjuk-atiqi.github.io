@@ -11,17 +11,17 @@ main:
   - title: "Projects"
     url: /Projects/
 
-  - title: "Talks"
-    url: /talks/    
+  - title: "Experiences"
+    url: /Experiences/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Educations"
+    url: /Educations/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Skills"
+    url: /Skills/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Certifications"
+    url: /Certifications/
     
   - title: "CV"
     url: /cv/
