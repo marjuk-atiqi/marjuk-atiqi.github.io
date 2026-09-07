@@ -8,12 +8,12 @@ While my professional experience covers the management and execution of various 
 ### 1. Enterprise ERP Deployments (Oracle R12)
 **Clients:** Navana Group, The Metal (Pvt.) Limited, Karnafully Steel Mills Ltd.
 * **Technical Focus:** Implemented Oracle Applications R12 Financial modules including Accounts Payable, Accounts Receivable, General Ledger, Cash Management, and Fixed Asset.
-* **Key Contributions:** Conducted extensive AS-IS and TO-BE business process analysis, configured CRP (Conference Room Pilot) servers, and developed comprehensive functional documentation to map business needs to system architecture.
+* **Key Contributions:** Conducted extensive AS-IS and TO-BE business process analysis, and developed comprehensive functional documentation to map business needs to system architecture.
 
 ### 2. Jamuna Future Park ERP Integration
 **Client:** Jamuna Group
 * **Tech Stack:** Oracle Applications R12, Developer 10g R2 (Forms and Reports), BI Publisher, TOAD for Oracle, and Data Loader.
-* **Key Contributions:** Deployed critical financial modules on high-performance Intel processor-based servers. Managed complex data loading processes and customized reporting tools using BI Publisher and Developer 10g.
+* **Key Contributions:** Conducted extensive AS-IS and TO-BE business process analysis, and developed comprehensive functional documentation to map business needs to system architecture.
 
 ### 3. Custom ERP Architecture
 **Client:** Bangladesh Ordnance Factory (BOF)
