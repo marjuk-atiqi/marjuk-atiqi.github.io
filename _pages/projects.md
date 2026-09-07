@@ -63,7 +63,7 @@ While my professional experience covers the management and execution of various 
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Conducted extensive AS-IS and TO-BE business process analysis and configured CRP (Conference Room Pilot) servers.
+      Conducted extensive AS-IS and TO-BE business process analysis.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
