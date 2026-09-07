@@ -19,7 +19,7 @@ title: "Professional Certifications"
     </p>
     <p style="margin: 0; color: #6b7280; font-size: 0.9rem;">
       Credential ID: 12345678 
-      <span style="color: #1877F2; cursor: pointer; margin-left: 10px; font-weight: 600;" onclick="openModal('/images/your-certificate.png')">[View Certificate]</span>
+      <span style="color: #1877F2; cursor: pointer; margin-left: 10px; font-weight: 600;" onclick="openModal('/images/oracle-sql-cert.png')">[View Certificate]</span>
     </p>
   </div>
 </div>
