@@ -37,3 +37,8 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* থিম চেঞ্জার বা সেটিংস আইকন লুকিয়ে ফেলার জন্য */
+.settings, .theme-switcher, button.search__toggle, .mode-switch {
+  display: none !important;
+}
