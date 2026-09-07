@@ -2,23 +2,19 @@
 permalink: /projects/
 title: "Technical Projects & Implementations"
 ---
-<div style="background: #fafafa; border-left: 4px solid #0f172a; border-radius: 6px; padding: 20px 24px; margin-bottom: 24px; border-top: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; border-bottom: 1px solid #e2e8f0; position: relative;">
+<div style="background: #ffffff; border: 1px solid #f3f4f6; border-radius: 16px; padding: 24px; margin-bottom: 24px; box-shadow: 0 4px 20px -2px rgba(0, 0, 0, 0.05);">
   
-  <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.2rem; font-weight: 700; color: #0f172a;">Oracle EBS Implementation Projects</h3>
+  <h3 style="margin: 0 0 10px 0; font-size: 1.3rem; font-weight: bold; color: #1f2937;">Jamuna Future Park ERP Integration</h3>
   
-  <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 16px;">
-    <span style="display: inline-block; width: 8px; height: 8px; background-color: #10b981; border-radius: 50%;"></span>
-    <span style="font-size: 0.9rem; color: #475569; font-weight: 500;">ERP Techno-Functional Consultant</span>
+  <p style="margin: 0 0 15px 0; font-size: 0.95rem; color: #4b5563; line-height: 1.6;">
+    Deployed critical financial modules on high-performance Intel processor-based servers. Managed complex data loading processes and customized reporting tools.
+  </p>
+  
+  <!-- Skill Tags -->
+  <div style="display: flex; flex-wrap: wrap; gap: 8px; margin-top: 15px;">
+    <span style="background: #f1f5f9; color: #334155; font-size: 0.8rem; font-weight: 500; padding: 4px 10px; border-radius: 6px;">Oracle R12</span>
+    <span style="background: #f1f5f9; color: #334155; font-size: 0.8rem; font-weight: 500; padding: 4px 10px; border-radius: 6px;">Developer 10g</span>
+    <span style="background: #f1f5f9; color: #334155; font-size: 0.8rem; font-weight: 500; padding: 4px 10px; border-radius: 6px;">BI Publisher</span>
+    <span style="background: #f1f5f9; color: #334155; font-size: 0.8rem; font-weight: 500; padding: 4px 10px; border-radius: 6px;">TOAD</span>
   </div>
-  
-  <ul style="margin: 0; padding-left: 0; list-style-type: none; color: #334155; font-size: 0.95rem; line-height: 1.7;">
-    <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
-      <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Played a key role in implementing Oracle E-Business Suite (EBS) across renowned corporate groups.
-    </li>
-    <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
-      <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Deployed financial modules (Accounts Payable, Receivable, General Ledger, Cash Management) for The Metal Ltd., Navana Group, and KSML.
-    </li>
-  </ul>
 </div>
