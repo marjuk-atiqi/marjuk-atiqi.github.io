@@ -359,3 +359,6 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+# থিম সেটিংস বা টেমপ্লেট কন্ট্রোল থাকলে এটি ডিসেবল করতে পারেন
+theme_settings:
+  owner_hide_skin_switcher: true # অথবা এই জাতীয় কোনো অপশন থাকলে ফলস বা ট্রু করে দিতে পারেন
