@@ -2,6 +2,26 @@
 permalink: /skills/
 title: "Skills & Expertise"
 ---
+
+<style>
+  .skill-card {
+    flex: 1;
+    min-width: 250px;
+    background: #ffffff;
+    border: 1px solid #e2e8f0;
+    border-top: 4px solid #0f172a;
+    border-radius: 8px;
+    padding: 24px;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+  }
+  /* মাউস নিলে কার্ড হালকা উপরে উঠবে এবং শ্যাডো বাড়বে */
+  .skill-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1), 0 10px 10px -5px rgba(0,0,0,0.04);
+  }
+</style>
+
 <p style="margin-bottom: 30px; font-size: 1rem; color: #475569; line-height: 1.6;">
 Throughout my career, I have cultivated a diverse skill set bridging technical execution and strategic business management. Below is a categorized overview of my core competencies:
 </p>
@@ -10,7 +30,7 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 20px;">
 
   <!-- Category 1: Project Management -->
-  <div style="flex: 1; min-width: 250px; background: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #0f172a; border-radius: 8px; padding: 24px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+  <div class="skill-card">
     <h3 style="margin-top: 0; font-size: 1.15rem; color: #0f172a; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 15px;">Project Management</h3>
     <ul style="padding-left: 20px; color: #475569; font-size: 0.95rem; line-height: 1.8; margin-bottom: 0;">
       <li>Agile, Scrum & Waterfall Methodologies</li>
@@ -21,7 +41,7 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
   </div>
 
   <!-- Category 2: Business Analysis -->
-  <div style="flex: 1; min-width: 250px; background: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #0f172a; border-radius: 8px; padding: 24px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+  <div class="skill-card">
     <h3 style="margin-top: 0; font-size: 1.15rem; color: #0f172a; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 15px;">Business Analysis</h3>
     <ul style="padding-left: 20px; color: #475569; font-size: 0.95rem; line-height: 1.8; margin-bottom: 0;">
       <li>SDLC</li>
@@ -39,7 +59,7 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
 <div style="display: flex; flex-wrap: wrap; gap: 20px; margin-bottom: 24px;">
 
   <!-- Category 3: ERP & Enterprise Systems -->
-  <div style="flex: 1; min-width: 250px; background: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #0f172a; border-radius: 8px; padding: 24px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+  <div class="skill-card">
     <h3 style="margin-top: 0; font-size: 1.15rem; color: #0f172a; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 15px;">ERP Implementations</h3>
     <ul style="padding-left: 20px; color: #475569; font-size: 0.95rem; line-height: 1.8; margin-bottom: 0;">
       <li>Oracle EBS (R12) Deployment</li>
@@ -50,7 +70,7 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
   </div>
 
   <!-- Category 4: Database & Technical -->
-  <div style="flex: 1; min-width: 250px; background: #ffffff; border: 1px solid #e2e8f0; border-top: 4px solid #0f172a; border-radius: 8px; padding: 24px; box-shadow: 0 4px 6px -1px rgba(0,0,0,0.05);">
+  <div class="skill-card">
     <h3 style="margin-top: 0; font-size: 1.15rem; color: #0f172a; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 15px;">Database & Programming</h3>
     <ul style="padding-left: 20px; color: #475569; font-size: 0.95rem; line-height: 1.8; margin-bottom: 0;">
       <li>Database: Oracle (10g), PostgreSQL</li>
