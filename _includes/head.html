@@ -17,21 +17,25 @@
 
 <style>
   @media (min-width: 1024px) {
-    /* সাইডবারের মাপ */
+    /* সাইডবারের মাপ, ব্যাকগ্রাউন্ড কালার এবং ডিজাইন */
     .sidebar {
       width: 290px !important; 
+      background-color: #f8fafc !important; /* হালকা গ্রে-ব্লু ব্যাকগ্রাউন্ড */
+      padding: 25px 20px !important; /* চারপাশের ফাঁকা জায়গা */
+      border-radius: 16px !important; /* বক্সের কোণাগুলো সুন্দর গোল করার জন্য */
+      box-sizing: border-box !important;
     }
     
-    /* মেইন কন্টেন্টের বাম দিকে দাগ দেওয়া, যাতে সব পেজে দাগটি থাকে */
+    /* মেইন কন্টেন্টের বাম দিকের দাগ এবং দূরত্ব */
     .page, .archive {
       width: calc(100% - 330px) !important; 
       float: right !important;
-      border-left: 1px solid #e2e8f0 !important; /* এই লাইনটি সব পেজে বর্ডার দেখাবে */
-      padding-left: 30px !important; /* বর্ডার থেকে লেখার দূরত্ব */
-      min-height: 80vh; /* পেজে লেখা কম থাকলেও দাগটা লম্বা দেখাবে */
+      border-left: 1px solid #e2e8f0 !important; 
+      padding-left: 30px !important; 
+      min-height: 80vh; 
     }
     
-    /* প্রোফাইল ছবির সাইজ আরও বড় করা (আগে 135px ছিল, এখন 180px দেওয়া হলো) */
+    /* প্রোফাইল ছবির সাইজ */
     .author__avatar img {
       max-width: 180px !important; 
       width: 100% !important;
