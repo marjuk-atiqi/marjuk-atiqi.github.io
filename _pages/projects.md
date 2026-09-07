@@ -2,20 +2,23 @@
 permalink: /projects/
 title: "Technical Projects & Implementations"
 ---
-<div style="background: #ffffff; border: 1px solid #eaeaea; border-radius: 12px; padding: 24px; margin-bottom: 24px; box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -2px rgba(0, 0, 0, 0.025); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-4px)'; this.style.boxShadow='0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 10px 15px -3px rgba(0, 0, 0, 0.05), 0 4px 6px -2px rgba(0, 0, 0, 0.025)';">
+<div style="background: #fafafa; border-left: 4px solid #0f172a; border-radius: 6px; padding: 20px 24px; margin-bottom: 24px; border-top: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; border-bottom: 1px solid #e2e8f0; position: relative;">
   
-  <div style="display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 12px; flex-wrap: wrap; gap: 8px;">
-    <h3 style="margin: 0; font-size: 1.25rem; font-weight: 700; color: #111827;">Bangladesh Ordnance Factory (BOF)</h3>
-    <span style="background: #e0e7ff; color: #4338ca; font-size: 0.85rem; font-weight: 600; padding: 4px 12px; border-radius: 9999px;">Custom ERP Architecture</span>
+  <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.2rem; font-weight: 700; color: #0f172a;">Oracle EBS Implementation Projects</h3>
+  
+  <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 16px;">
+    <span style="display: inline-block; width: 8px; height: 8px; background-color: #10b981; border-radius: 50%;"></span>
+    <span style="font-size: 0.9rem; color: #475569; font-weight: 500;">ERP Techno-Functional Consultant</span>
   </div>
   
-  <p style="margin-top: 0; margin-bottom: 16px; font-size: 0.95rem; color: #6b7280; font-weight: 500;">
-    Role: Project Lead / ERP Consultant
-  </p>
-  
-  <ul style="margin: 0; padding-left: 20px; color: #4b5563; font-size: 0.95rem; line-height: 1.6;">
-    <li style="margin-bottom: 6px;">Directed a comprehensive custom ERP implementation lifecycle.</li>
-    <li style="margin-bottom: 6px;">Bridged the gap between complex business requirements and technical execution.</li>
-    <li>Significantly improved operational efficiency, workflow automation, and data integrity.</li>
+  <ul style="margin: 0; padding-left: 0; list-style-type: none; color: #334155; font-size: 0.95rem; line-height: 1.7;">
+    <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
+      <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
+      Played a key role in implementing Oracle E-Business Suite (EBS) across renowned corporate groups.
+    </li>
+    <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
+      <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
+      Deployed financial modules (Accounts Payable, Receivable, General Ledger, Cash Management) for The Metal Ltd., Navana Group, and KSML.
+    </li>
   </ul>
 </div>
