@@ -17,42 +17,30 @@
 
 <style>
   @media (min-width: 1024px) {
-    /* সাইডবারের মাপ এবং ফেসবুক ব্লু ব্যাকগ্রাউন্ড */
+    /* সাইডবারের মাপ, স্কাই ব্লু ব্যাকগ্রাউন্ড কালার এবং শ্যাডো */
     .sidebar {
       width: 290px !important; 
-      background-color: #1877F2 !important; /* Facebook Blue */
+      background-color: #e0f2fe !important; /* সুন্দর সফট স্কাই ব্লু কালার */
       padding: 25px 20px !important; 
       border-radius: 12px !important; 
       box-sizing: border-box !important;
-      box-shadow: 0 4px 10px rgba(0,0,0,0.15) !important; 
-    }
-    
-    /* সাইডবারের ভেতরের সব লেখা, নাম, লিংক এবং আইকন সাদা করার জন্য */
-    .sidebar, .sidebar p, .sidebar h1, .sidebar h2, .sidebar h3, 
-    .sidebar h4, .sidebar a, .sidebar .author__name, 
-    .sidebar .author__bio, .sidebar .author__urls li, 
-    .sidebar .author__urls li a, .sidebar i, .sidebar svg,
-    .sidebar .author__urls-wrapper button {
-      color: #ffffff !important; 
+      box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0,0,0,0.06) !important; 
     }
     
     /* মেইন কন্টেন্টের বাম দিকের দাগ এবং দূরত্ব */
     .page, .archive {
       width: calc(100% - 330px) !important; 
       float: right !important;
-      border-left: 1px solid #e2e8f0 !important; 
+      border-left: 1px solid #bae6fd !important; /* দাগটাও হালকা স্কাই ব্লু করা হয়েছে */
       padding-left: 30px !important; 
       min-height: 80vh; 
     }
     
-    /* প্রোফাইল ছবির সাইজ এবং সাদা বর্ডার */
+    /* প্রোফাইল ছবির সাইজ */
     .author__avatar img {
       max-width: 180px !important; 
       width: 100% !important;
       height: auto !important;
-      border: 3px solid #ffffff !important; /* ছবির চারপাশে সাদা বর্ডার */
-      padding: 3px !important;
-      background-color: #ffffff !important;
     }
   }
 </style>
