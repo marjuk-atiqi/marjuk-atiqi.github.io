@@ -74,7 +74,7 @@ While my professional experience covers the management and execution of various 
 
 <!-- Project 4: Jamuna Future Park ERP Integration -->
 <div style="background: #fafafa; border-left: 4px solid #0f172a; border-radius: 6px; padding: 20px 24px; margin-bottom: 24px; border-top: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; border-bottom: 1px solid #e2e8f0; position: relative;">
-  <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.2rem; font-weight: 700; color: #0f172a;">Jamuna Future Park ERP (Oracle EBS</h3>
+  <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.2rem; font-weight: 700; color: #0f172a;">Jamuna Future Park ERP (Oracle EBS)</h3>
   <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 16px;">
     <span style="display: inline-block; width: 8px; height: 8px; background-color: #10b981; border-radius: 50%;"></span>
     <span style="font-size: 0.9rem; color: #475569; font-weight: 500;">ERP Techno-Functional Consultant | Jamuna Group</span>
