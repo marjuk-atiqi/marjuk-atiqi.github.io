@@ -38,7 +38,9 @@
     "layout/json_cv"
 ;
 
-/* থিম মোড টগল বাটন এবং গাইড মেনু লুকানোর জন্য */
-.toggle-theme, button.toggle-theme, .fas.fa-adjust, .fa-moon, .fa-sun {
+/* থিম মোড টগল বাটন এবং এর পেছনের এলিমেন্ট সম্পূর্ণ মুছে ফেলার জন্য */
+button#theme-toggle, .toggle-theme, .greedy-nav button, .greedy-nav .hidden-links button {
   display: none !important;
+  visibility: hidden !important;
+  pointer-events: none !important;
 }
