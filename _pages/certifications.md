@@ -23,7 +23,7 @@ title: "Professional Certifications"
       
       <!-- মডার্ন সলিড ব্লু বাটন -->
       <button onclick="openModal('/images/oracle-sql-cert.png')" style="background-color: #1877F2; color: #ffffff; border: none; padding: 6px 14px; border-radius: 6px; font-size: 0.85rem; font-weight: 600; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; box-shadow: 0 2px 4px rgba(24,119,242,0.2); transition: background-color 0.2s;" onmouseover="this.style.backgroundColor='#166fe5'" onmouseout="this.style.backgroundColor='#1877F2'">
-        👁️ View Certificate
+        View Certificate
       </button>
     </div>
   </div>
