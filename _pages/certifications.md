@@ -2,10 +2,29 @@
 permalink: /certifications/
 title: "Professional Certifications"
 ---
+
+<style>
+  .cert-card {
+    background: #ffffff;
+    border-left: 4px solid #0f172a;
+    border-radius: 8px;
+    padding: 24px;
+    margin-bottom: 20px;
+    box-shadow: 0 10px 15px -3px rgba(0,0,0,0.05);
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+  }
+  /* মাউস নিলে হোভার ইফেক্ট (কার্ড উপরে উঠবে এবং শ্যাডো বাড়বে) */
+  .cert-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1), 0 10px 10px -5px rgba(0,0,0,0.04);
+  }
+</style>
+
 <!-- Oracle Database SQL Certified Expert (SQL) -->
-<!-- প্রফেশনাল সার্টিফিকেশন কার্ড -->
-<div style="background: #ffffff; border-left: 4px solid #0f172a; border-radius: 8px; padding: 24px; margin-bottom: 20px; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.05); display: flex; gap: 20px; align-items: center;">
-  
+<div class="cert-card">
   <!-- সার্টিফিকেট থাম্বনেইল বা ব্যাজ -->
   <div style="flex-shrink: 0;">
     <img src="/images/oracle-sql-cert.png" alt="Certificate Badge" style="width: 70px; height: 70px; object-fit: cover; border-radius: 6px; border: 1px solid #e2e8f0;">
@@ -29,34 +48,8 @@ title: "Professional Certifications"
   </div>
 </div>
 
-<!-- পপআপ উইন্ডো (Modal) এবং ফিক্সড ক্লোজ আইকন -->
-<div id="certModal" style="display: none; position: fixed; z-index: 99999; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.9); backdrop-filter: blur(5px); align-items: center; justify-content: center;" onclick="closeModal()">
-  
-  <!-- ক্লোজ আইকন (ওপরের ডান কোণায় স্পষ্ট গোল বাটন) -->
-  <div style="position: fixed; top: 20px; right: 25px; background: #ffffff; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; box-shadow: 0 4px 10px rgba(0,0,0,0.3); z-index: 100000;" onclick="closeModal()">
-    <span style="color: #000000; font-size: 26px; font-weight: bold; line-height: 1;">&times;</span>
-  </div>
-
-  <!-- বড় প্রিভিউ ইমেজ -->
-  <img id="modalImg" style="max-width: 85%; max-height: 85%; border-radius: 8px; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.7);" onclick="event.stopPropagation()">
-</div>
-
-<!-- জাভাস্ক্রিপ্ট কোড -->
-<script>
-  function openModal(imgSrc) {
-    document.getElementById('modalImg').src = imgSrc;
-    document.getElementById('certModal').style.display = 'flex';
-  }
-  function closeModal() {
-    document.getElementById('certModal').style.display = 'none';
-  }
-</script>
-
-
 <!-- Oracle PLSQL Developer Certified Associate (PL-SQL) -->
-<!-- প্রফেশনাল সার্টিফিকেশন কার্ড -->
-<div style="background: #ffffff; border-left: 4px solid #0f172a; border-radius: 8px; padding: 24px; margin-bottom: 20px; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.05); display: flex; gap: 20px; align-items: center;">
-  
+<div class="cert-card">
   <!-- সার্টিফিকেট থাম্বনেইল বা ব্যাজ -->
   <div style="flex-shrink: 0;">
     <img src="/images/oracle-plsql-cert.png" alt="Certificate Badge" style="width: 70px; height: 70px; object-fit: cover; border-radius: 6px; border: 1px solid #e2e8f0;">
@@ -80,33 +73,8 @@ title: "Professional Certifications"
   </div>
 </div>
 
-<!-- পপআপ উইন্ডো (Modal) এবং ফিক্সড ক্লোজ আইকন -->
-<div id="certModal" style="display: none; position: fixed; z-index: 99999; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.9); backdrop-filter: blur(5px); align-items: center; justify-content: center;" onclick="closeModal()">
-  
-  <!-- ক্লোজ আইকন (ওপরের ডান কোণায় স্পষ্ট গোল বাটন) -->
-  <div style="position: fixed; top: 20px; right: 25px; background: #ffffff; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; box-shadow: 0 4px 10px rgba(0,0,0,0.3); z-index: 100000;" onclick="closeModal()">
-    <span style="color: #000000; font-size: 26px; font-weight: bold; line-height: 1;">&times;</span>
-  </div>
-
-  <!-- বড় প্রিভিউ ইমেজ -->
-  <img id="modalImg" style="max-width: 85%; max-height: 85%; border-radius: 8px; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.7);" onclick="event.stopPropagation()">
-</div>
-
-<!-- জাভাস্ক্রিপ্ট কোড -->
-<script>
-  function openModal(imgSrc) {
-    document.getElementById('modalImg').src = imgSrc;
-    document.getElementById('certModal').style.display = 'flex';
-  }
-  function closeModal() {
-    document.getElementById('certModal').style.display = 'none';
-  }
-</script>
-
 <!-- Oracle Forms Developer Certified Professional (OCP) -->
-<!-- প্রফেশনাল সার্টিফিকেশন কার্ড -->
-<div style="background: #ffffff; border-left: 4px solid #0f172a; border-radius: 8px; padding: 24px; margin-bottom: 20px; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.05); display: flex; gap: 20px; align-items: center;">
-  
+<div class="cert-card">
   <!-- সার্টিফিকেট থাম্বনেইল বা ব্যাজ -->
   <div style="flex-shrink: 0;">
     <img src="/images/oracle-ocp-cert.png" alt="Certificate Badge" style="width: 70px; height: 70px; object-fit: cover; border-radius: 6px; border: 1px solid #e2e8f0;">
@@ -130,15 +98,15 @@ title: "Professional Certifications"
   </div>
 </div>
 
-<!-- পপআপ উইন্ডো (Modal) এবং ফিক্সড ক্লোজ আইকন -->
+<!-- কমন পপআপ উইন্ডো (Modal) এবং ফিক্সড ক্লোজ আইকন -->
 <div id="certModal" style="display: none; position: fixed; z-index: 99999; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.9); backdrop-filter: blur(5px); align-items: center; justify-content: center;" onclick="closeModal()">
   
-  <!-- ক্লোজ আইকন (ওপরের ডান কোণায় স্পষ্ট গোল বাটন) -->
+  <!-- ক্লোজ আইকন -->
   <div style="position: fixed; top: 20px; right: 25px; background: #ffffff; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; box-shadow: 0 4px 10px rgba(0,0,0,0.3); z-index: 100000;" onclick="closeModal()">
     <span style="color: #000000; font-size: 26px; font-weight: bold; line-height: 1;">&times;</span>
   </div>
 
-  <!-- বড় প্রিভিউ ইমেজ -->
+  <!-- বড় প্রিভিউ ইমেজ -->
   <img id="modalImg" style="max-width: 85%; max-height: 85%; border-radius: 8px; box-shadow: 0 25px 50px -12px rgba(0,0,0,0.7);" onclick="event.stopPropagation()">
 </div>
 
@@ -152,4 +120,3 @@ title: "Professional Certifications"
     document.getElementById('certModal').style.display = 'none';
   }
 </script>
-
