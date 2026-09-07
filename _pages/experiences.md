@@ -2,6 +2,27 @@
 permalink: /experiences/
 title: "Professional Experiences"
 ---
+
+<style>
+  .exp-card {
+    background: #fafafa;
+    border-left: 4px solid #0f172a;
+    border-radius: 6px;
+    padding: 20px 24px;
+    margin-bottom: 24px;
+    border-top: 1px solid #e2e8f0;
+    border-right: 1px solid #e2e8f0;
+    border-bottom: 1px solid #e2e8f0;
+    position: relative;
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+  }
+  /* মাউস নিলে কার্ড হালকা উপরে উঠবে এবং শ্যাডো বাড়বে */
+  .exp-card:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 20px 25px -5px rgba(0,0,0,0.1), 0 10px 10px -5px rgba(0,0,0,0.04);
+  }
+</style>
+
 <p style="margin-bottom: 30px; font-size: 1rem; color: #475569; line-height: 1.6;">
 With over 13 years of extensive professional experience, I have developed a strong foundation in Project Management, Business Analysis, and ERP implementation. I specialize in bridging the gap between business requirements and technical solutions, consistently driving process improvements and digital transformation across diverse sectors.
 <br><br>
@@ -9,7 +30,7 @@ Below is a detailed timeline of my professional journey:
 </p>
 
 <!-- Experience 1: Betopia Group -->
-<div style="background: #fafafa; border-left: 4px solid #0f172a; border-radius: 6px; padding: 20px 24px; margin-bottom: 24px; border-top: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; border-bottom: 1px solid #e2e8f0; position: relative;">
+<div class="exp-card">
   <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.2rem; font-weight: 700; color: #0f172a;">Project Manager</h3>
   <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 16px;">
     <span style="display: inline-block; width: 8px; height: 8px; background-color: #10b981; border-radius: 50%;"></span>
@@ -36,7 +57,7 @@ Below is a detailed timeline of my professional journey:
 </div>
 
 <!-- Experience 2: Bulipe Tech Limited -->
-<div style="background: #fafafa; border-left: 4px solid #0f172a; border-radius: 6px; padding: 20px 24px; margin-bottom: 24px; border-top: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; border-bottom: 1px solid #e2e8f0; position: relative;">
+<div class="exp-card">
   <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.2rem; font-weight: 700; color: #0f172a;">Project Manager</h3>
   <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 16px;">
     <span style="display: inline-block; width: 8px; height: 8px; background-color: #10b981; border-radius: 50%;"></span>
@@ -63,7 +84,7 @@ Below is a detailed timeline of my professional journey:
 </div>
 
 <!-- Experience 3: IBCS-PRIMAX (Business Analyst) -->
-<div style="background: #fafafa; border-left: 4px solid #0f172a; border-radius: 6px; padding: 20px 24px; margin-bottom: 24px; border-top: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; border-bottom: 1px solid #e2e8f0; position: relative;">
+<div class="exp-card">
   <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.2rem; font-weight: 700; color: #0f172a;">Business Analyst</h3>
   <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 16px;">
     <span style="display: inline-block; width: 8px; height: 8px; background-color: #10b981; border-radius: 50%;"></span>
@@ -90,7 +111,7 @@ Below is a detailed timeline of my professional journey:
 </div>
 
 <!-- Experience 4: Ghuri Infotech Limited -->
-<div style="background: #fafafa; border-left: 4px solid #0f172a; border-radius: 6px; padding: 20px 24px; margin-bottom: 24px; border-top: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; border-bottom: 1px solid #e2e8f0; position: relative;">
+<div class="exp-card">
   <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.2rem; font-weight: 700; color: #0f172a;">Senior IT Officer</h3>
   <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 16px;">
     <span style="display: inline-block; width: 8px; height: 8px; background-color: #10b981; border-radius: 50%;"></span>
@@ -117,7 +138,7 @@ Below is a detailed timeline of my professional journey:
 </div>
 
 <!-- Experience 5: IBCS-PRIMAX (Senior Programmer) -->
-<div style="background: #fafafa; border-left: 4px solid #0f172a; border-radius: 6px; padding: 20px 24px; margin-bottom: 24px; border-top: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; border-bottom: 1px solid #e2e8f0; position: relative;">
+<div class="exp-card">
   <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.2rem; font-weight: 700; color: #0f172a;">Senior Programmer (ERP Consultant)</h3>
   <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 16px;">
     <span style="display: inline-block; width: 8px; height: 8px; background-color: #10b981; border-radius: 50%;"></span>
@@ -144,7 +165,7 @@ Below is a detailed timeline of my professional journey:
 </div>
 
 <!-- Experience 6: Lumineux Informatique -->
-<div style="background: #fafafa; border-left: 4px solid #0f172a; border-radius: 6px; padding: 20px 24px; margin-bottom: 24px; border-top: 1px solid #e2e8f0; border-right: 1px solid #e2e8f0; border-bottom: 1px solid #e2e8f0; position: relative;">
+<div class="exp-card">
   <h3 style="margin-top: 0; margin-bottom: 8px; font-size: 1.2rem; font-weight: 700; color: #0f172a;">Junior Programmer</h3>
   <div style="display: flex; align-items: center; gap: 8px; margin-bottom: 16px;">
     <span style="display: inline-block; width: 8px; height: 8px; background-color: #10b981; border-radius: 50%;"></span>
