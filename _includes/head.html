@@ -17,22 +17,25 @@
 
 <style>
   @media (min-width: 1024px) {
-    /* সাইডবারের পারফেক্ট মাপ এবং ডানদিকের হালকা বর্ডার */
+    /* সাইডবারের মাপ */
     .sidebar {
-      width: 280px !important; 
-      border-right: 1px solid #e2e8f0 !important; /* ডানদিকের হালকা গ্রে বর্ডার */
-      padding-right: 25px !important; /* বর্ডার থেকে ভেতরের লেখার দূরত্ব */
+      width: 290px !important; 
     }
     
-    /* মেইন কন্টেন্ট যেন সাইডবারের বর্ডারের সাথে লেগে না যায় */
+    /* মেইন কন্টেন্টের বাম দিকে দাগ দেওয়া, যাতে সব পেজে দাগটি থাকে */
     .page, .archive {
       width: calc(100% - 330px) !important; 
       float: right !important;
+      border-left: 1px solid #e2e8f0 !important; /* এই লাইনটি সব পেজে বর্ডার দেখাবে */
+      padding-left: 30px !important; /* বর্ডার থেকে লেখার দূরত্ব */
+      min-height: 80vh; /* পেজে লেখা কম থাকলেও দাগটা লম্বা দেখাবে */
     }
     
-    /* প্রোফাইল ছবির সাইজ সুন্দরভাবে ব্যালান্স করা */
+    /* প্রোফাইল ছবির সাইজ আরও বড় করা (আগে 135px ছিল, এখন 180px দেওয়া হলো) */
     .author__avatar img {
-      max-width: 135px !important; 
+      max-width: 180px !important; 
+      width: 100% !important;
+      height: auto !important;
     }
   }
 </style>
