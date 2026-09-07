@@ -3,8 +3,8 @@ permalink: /certifications/
 title: "Professional Certifications"
 ---
 
-<!-- প্রফেশনাল সার্টিফিকেশন কার্ড (বাম পাশে বর্ডার সহ) -->
-<div style="background: #ffffff; border-left: 4px solid #1877F2; border-radius: 8px; padding: 24px; margin-bottom: 20px; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.05); display: flex; gap: 20px; align-items: center;">
+<!-- প্রফেশনাল সার্টিফিকেশন কার্ড -->
+<div style="background: #ffffff; border-left: 4px solid #0f172a; border-radius: 8px; padding: 24px; margin-bottom: 20px; box-shadow: 0 10px 15px -3px rgba(0,0,0,0.05); display: flex; gap: 20px; align-items: center;">
   
   <!-- সার্টিফিকেট থাম্বনেইল বা ব্যাজ -->
   <div style="flex-shrink: 0;">
@@ -25,12 +25,12 @@ title: "Professional Certifications"
   </div>
 </div>
 
-<!-- পপআপ উইন্ডো (Modal) এবং Close Icon -->
-<div id="certModal" style="display: none; position: fixed; z-index: 9999; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.85); backdrop-filter: blur(4px); align-items: center; justify-content: center;" onclick="closeModal()">
+<!-- পপআপ উইন্ডো (Modal) এবং ফিক্সড ক্লোজ আইকন -->
+<div id="certModal" style="display: none; position: fixed; z-index: 99999; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.9); backdrop-filter: blur(5px); align-items: center; justify-content: center;" onclick="closeModal()">
   
-  <!-- স্পষ্ট ক্লোজ বাটন (Close Icon) -->
-  <div style="position: absolute; top: 25px; right: 30px; background: rgba(255,255,255,0.2); width: 45px; height: 45px; border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; transition: background 0.2s;" onmouseover="this.style.background='rgba(255,255,255,0.4)'" onmouseout="this.style.background='rgba(255,255,255,0.2)'" onclick="closeModal()">
-    <span style="color: #ffffff; font-size: 28px; font-weight: bold; line-height: 1;">&times;</span>
+  <!-- ক্লোজ আইকন (ওপরের ডান কোণায় স্পষ্ট গোল বাটন) -->
+  <div style="position: fixed; top: 20px; right: 25px; background: #ffffff; width: 40px; height: 40px; border-radius: 50%; display: flex; align-items: center; justify-content: center; cursor: pointer; box-shadow: 0 4px 10px rgba(0,0,0,0.3); z-index: 100000;" onclick="closeModal()">
+    <span style="color: #000000; font-size: 26px; font-weight: bold; line-height: 1;">&times;</span>
   </div>
 
   <!-- বড় প্রিভিউ ইমেজ -->
