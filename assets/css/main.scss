@@ -63,18 +63,23 @@ div.search__toggle,
   margin-right: 0 !important;
 }
 
-/* ন্যাভিগেশন মেনু পজিশন এবং অ্যালাইনমেন্ট ঠিক করার জন্য */
+/* ন্যাভিগেশন মেনু ঠিকভাবে পাশাপাশি রাখতে এবং হ্যামবার্গার মেনু এড়াতে */
 .masthead {
   .greedy-nav {
     display: flex;
-    justify-content: flex-end; /* মেনুগুলোকে ডান পাশে বা সামঞ্জস্যপূর্ণ অবস্থানে নিয়ে যাওয়ার জন্য */
+    justify-content: flex-end;
     align-items: center;
     
     .visible-links {
       display: flex;
       justify-content: flex-end;
-      flex: 1;
-      margin-right: 20px; /* ডান পাশের গ্যাপ ঠিক রাখতে */
+      margin-right: 10px;
+      
+      /* মেনুগুলোর ফন্ট সাইজ সামান্য কমিয়ে সবগুলোকে একসাথে ফিট রাখতে */
+      li {
+        font-size: 0.9rem;
+        margin-left: 15px;
+      }
     }
   }
 }
