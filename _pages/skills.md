@@ -8,8 +8,8 @@ title: "Skills & Expertise"
     flex: 1;
     min-width: 250px;
     background: #fafafa;
-    border-left: 4px solid #0f172a;
-    border-top: 1px solid #e2e8f0;
+    border-top: 4px solid #0f172a;
+    border-left: 1px solid #e2e8f0;
     border-right: 1px solid #e2e8f0;
     border-bottom: 1px solid #e2e8f0;
     border-radius: 6px;
@@ -82,5 +82,3 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
   </div>
 
 </div>
-](https://jiggasha-book.lovable.app/categories
-এই ওয়েবসাইট চেক কর। আমি lovable দিয়ে এইটা বানাচ্ছি। এখন প্রশ্ন এবং উত্তর এন্ট্রি করার কাজ করাবো তুমি আমাকে lovable এর জন্য command instruction requirement লিখে দাও। entry screen কেমন হবে তার একটা ছবি দিলাম যাতে তুমি বুঝতে পার)
