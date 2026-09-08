@@ -39,8 +39,7 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
       <li>Resource Management</li>
       <li>Risk Management</li>
       <li>Stakeholder Management</li>
-      <li>Project Tracking</li>
-      <li>Project Tracking Tools (JIRA, ClickUp)</li>
+      <li>Project Tracking</li>      
     </ul>
   </div>
 
@@ -53,9 +52,7 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
       <li>Process Analysis</li>
       <li>UAT</li>
       <li>SDLC</li>
-      <li>Process Optimization</li>
-      <li>User Acceptance Testing (UAT)</li>
-      <li>Digital Transformation</li
+      <li>Process Optimization</li>      
     </ul>
   </div>
 
