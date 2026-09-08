@@ -82,10 +82,11 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
     <h3 style="margin-top: 0; font-size: 1.15rem; color: #0f172a; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 15px;">Database & Technology</h3>
     <ul style="padding-left: 20px; color: #475569; font-size: 0.95rem; line-height: 1.8; margin-bottom: 0;">
       <li>Oracle & PostgreSQL</li>
+      <li>Database Design & Modeling</li>
       <li>SQL & PL/SQL</li>
-      <li>Database Design</li>
-      <li>Data Modeling</li>
-      <li>Database Optimization</li>
+      <li>Query Optimization</li>
+      <li>Oracle Forms & Reports</li>
+      <li>HTML, CSS & WordPress</li>
     </ul>
   </div>
 </div>
