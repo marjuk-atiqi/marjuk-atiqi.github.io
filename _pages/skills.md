@@ -58,7 +58,6 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
       <li>Digital Transformation</li>      
     </ul>
   </div>
-
 </div>
 
 <!-- Bottom Row: ERP Implementations & Database -->
@@ -68,10 +67,13 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
   <div class="custom-card">
     <h3 style="margin-top: 0; font-size: 1.15rem; color: #0f172a; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 15px;">ERP Implementations</h3>
     <ul style="padding-left: 20px; color: #475569; font-size: 0.95rem; line-height: 1.8; margin-bottom: 0;">
-      <li>Oracle EBS (R12) Deployment</li>
-      <li>Financial Modules (AP, AR, GL, CM, FA)</li>
-      <li>AS-IS & TO-BE Process Mapping</li>
-      <li>End-User Manual Creation & Training</li>
+      <li>ERP Solution Design</li>
+      <li>Business Process Expertise</li>
+      <li>Functional & System Analysis</li>
+      <li>ERP Integration</li>
+      <li>Data Management & Reporting</li>
+      <li>Stakeholder Collaboration</li>
+      <li>User Support & Training</li>
     </ul>
   </div>
 
@@ -85,5 +87,4 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
       <li>Database Triggers & Stored Procedures</li>
     </ul>
   </div>
-
 </div>
