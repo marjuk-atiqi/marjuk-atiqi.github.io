@@ -20,7 +20,7 @@ Throughout my career, I have successfully led cross-functional teams using Agile
 
 * **Custom ERP Solution (BOF-Project):** Directed end-to-end custom ERP implementations for large-scale and defense-standard operations, automating multi-departmental workflows, and ensuring data integrity.
 * **Oracle EBS Implementation Projects:** ERP implementation in a renowned group of companies such as:
-The Metal (Pvt.) Limited, Navan Engineering Ltd, Navan LPG, Jamuna Future Park and, Karnafully Steel Mills Ltd.(KSML
+The Metal (Pvt.) Limited, Navan Engineering Ltd, Navan LPG, Jamuna Future Park and, Karnafully Steel Mills Ltd.
 * **Custom ERP Solution (PKSF-Project):** Optimized and redesigned Management Information System (MIS) and Borrower/Beneficiary Information System (BIS) modules to enhance usability, streamline workflows, and improve data accessibility for better decision making.
 * **Ibrahim Cardiac Hospital:** Centralized hospital records and optimized stock control, reducing inventory discrepancies and improving data accuracy.
 
