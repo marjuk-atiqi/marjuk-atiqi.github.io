@@ -62,3 +62,19 @@ div.search__toggle,
 .greedy-nav .visible-links {
   margin-right: 0 !important;
 }
+
+/* ন্যাভিগেশন মেনু পজিশন এবং অ্যালাইনমেন্ট ঠিক করার জন্য */
+.masthead {
+  .greedy-nav {
+    display: flex;
+    justify-content: flex-end; /* মেনুগুলোকে ডান পাশে বা সামঞ্জস্যপূর্ণ অবস্থানে নিয়ে যাওয়ার জন্য */
+    align-items: center;
+    
+    .visible-links {
+      display: flex;
+      justify-content: flex-end;
+      flex: 1;
+      margin-right: 20px; /* ডান পাশের গ্যাপ ঠিক রাখতে */
+    }
+  }
+}
