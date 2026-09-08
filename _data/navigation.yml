@@ -22,6 +22,9 @@ main:
         
   - title: "Certifications"
     url: /certifications/
+
+  - title: "Training"
+    url: /training/
     
   - title: "CV"
     url: /cv/
