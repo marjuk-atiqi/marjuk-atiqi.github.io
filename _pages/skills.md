@@ -1,4 +1,4 @@
----
+[---
 permalink: /skills/
 title: "Skills & Expertise"
 ---
@@ -82,3 +82,5 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
   </div>
 
 </div>
+](https://jiggasha-book.lovable.app/categories
+এই ওয়েবসাইট চেক কর। আমি lovable দিয়ে এইটা বানাচ্ছি। এখন প্রশ্ন এবং উত্তর এন্ট্রি করার কাজ করাবো তুমি আমাকে lovable এর জন্য command instruction requirement লিখে দাও। entry screen কেমন হবে তার একটা ছবি দিলাম যাতে তুমি বুঝতে পার)
