@@ -1,4 +1,4 @@
-[---
+---
 permalink: /skills/
 title: "Skills & Expertise"
 ---
