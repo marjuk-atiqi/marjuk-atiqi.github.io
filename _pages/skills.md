@@ -35,7 +35,10 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
     <h3 style="margin-top: 0; font-size: 1.15rem; color: #0f172a; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 15px;">Project Management</h3>
     <ul style="padding-left: 20px; color: #475569; font-size: 0.95rem; line-height: 1.8; margin-bottom: 0;">
       <li>Agile, Scrum & Waterfall Methodologies</li>
-      <li>Resource Allocation & Budget Tracking</li>
+      <li>Project Planning & Execution</li>
+      <li>Resource & Budget Management</li>
+      <li>Risk & Issue Management</li>
+      <li>Stakeholder Management</li>
       <li>Cross-functional Team Leadership</li>
       <li>Project Tracking Tools (JIRA, ClickUp)</li>
     </ul>
@@ -46,10 +49,13 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
     <h3 style="margin-top: 0; font-size: 1.15rem; color: #0f172a; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 15px;">Business Analysis</h3>
     <ul style="padding-left: 20px; color: #475569; font-size: 0.95rem; line-height: 1.8; margin-bottom: 0;">
       <li>SDLC</li>
+      <li>Requirement Gathering & Analysis</li>
       <li>BRD & SRS Documentation</li>
-      <li>Complex Requirement Gathering</li>
-      <li>User Acceptance Testing (UAT)</li>
-      <li>Business Process Optimization</li>
+      <li>Business Process Analysis</li>
+      <li>Process Mapping & Optimization</li>
+      <li>SDLC & System Analysis</li>
+      <li>Stakeholder Communication</li>
+      <li>User Acceptance Testing (UAT)</li>      
       <li>Digital Transformation</li>
     </ul>
   </div>
