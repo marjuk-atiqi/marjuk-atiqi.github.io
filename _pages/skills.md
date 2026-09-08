@@ -79,7 +79,7 @@ Throughout my career, I have cultivated a diverse skill set bridging technical e
 
   <!-- Category 4: Database & Technical -->
   <div class="custom-card">
-    <h3 style="margin-top: 0; font-size: 1.15rem; color: #0f172a; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 15px;">Database & Programming</h3>
+    <h3 style="margin-top: 0; font-size: 1.15rem; color: #0f172a; border-bottom: 1px solid #e2e8f0; padding-bottom: 10px; margin-bottom: 15px;">Database & Technology</h3>
     <ul style="padding-left: 20px; color: #475569; font-size: 0.95rem; line-height: 1.8; margin-bottom: 0;">
       <li>Oracle & PostgreSQL</li>
       <li>SQL & PL/SQL</li>
