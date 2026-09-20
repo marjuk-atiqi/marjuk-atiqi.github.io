@@ -18,9 +18,9 @@ Throughout my career, I have successfully led cross-functional teams using Agile
 </p>
 
 <!-- Core Competencies Section -->
-<div style="margin-bottom: 35px;">
+<div style="border-left: 4px solid #10b981; padding-left: 20px; margin-bottom: 35px;">
   <span style="display: inline-block; background-color: #e0f2fe; color: #0369a1; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; padding: 6px 12px; border-radius: 20px; margin-bottom: 15px;">Core Competencies</span>
-  <ul style="color: #334155; line-height: 1.8; margin-top: 10px;">
+  <ul style="color: #334155; line-height: 1.8; margin-top: 10px; padding-left: 20px;">
     <li style="margin-bottom: 10px;"><strong>Project Management:</strong> Agile, Scrum & Waterfall Methodologies, SDLC Supervision, Cross-Functional Team Leadership, Resource Allocation, Risk Management, and Project Tracking (JIRA, ClickUp).</li>
     <li style="margin-bottom: 10px;"><strong>Business Analysis:</strong> Requirement Elicitation & Gathering, BRD & SRS Formulation, Solution Design, Workflow Optimization, System Analysis, and UAT Coordination.</li>
     <li><strong>Technical Expertise:</strong> Enterprise ERP Solutions (Oracle EBS, JD Edward), Oracle Forms & Reports, Custom Module Development, Database Design, SQL, and PL/SQL Scripting.</li>
@@ -28,9 +28,9 @@ Throughout my career, I have successfully led cross-functional teams using Agile
 </div>
 
 <!-- Career Highlights Section -->
-<div style="margin-bottom: 35px;">
+<div style="border-left: 4px solid #3b82f6; padding-left: 20px; margin-bottom: 35px;">
   <span style="display: inline-block; background-color: #dcfce7; color: #15803d; font-size: 0.85rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; padding: 6px 12px; border-radius: 20px; margin-bottom: 15px;">Career Highlights</span>
-  <ul style="color: #334155; line-height: 1.8; margin-top: 10px;">
+  <ul style="color: #334155; line-height: 1.8; margin-top: 10px; padding-left: 20px;">
     <li style="margin-bottom: 10px;"><strong>Custom ERP Solution (BOF-Project):</strong> Directed end-to-end custom ERP implementations for large-scale and defense-standard operations, automating multi-departmental workflows, and ensuring data integrity.</li>
     <li style="margin-bottom: 10px;"><strong>Oracle EBS Implementation Projects:</strong> ERP implementation in a renowned group of companies such as: The Metal (Pvt.) Limited, Navan Engineering Ltd, Navan LPG, Jamuna Future Park and, Karnafully Steel Mills Ltd.</li>
     <li style="margin-bottom: 10px;"><strong>Custom ERP Solution (PKSF-Project):</strong> Optimized and redesigned Management Information System (MIS) and Borrower/Beneficiary Information System (BIS) modules to enhance usability, streamline workflows, and improve data accessibility for better decision making.</li>
