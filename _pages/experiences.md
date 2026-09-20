@@ -94,7 +94,7 @@ Below is a detailed timeline of my professional journey:
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Oversaw <strong>WordPress Development</strong>strong>, <strong>Graphics Design</strong>strong>, and <strong>QA teams</strong>strong> in addition to core PM responsibilities.
+      Oversaw <strong>WordPress Development</strong>, <strong>Graphics Design</strong>, and <strong>QA teams</strong> in addition to core PM responsibilities.
     </li>
   </ul>
 </div>
@@ -152,7 +152,7 @@ Below is a detailed timeline of my professional journey:
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Collaborated on requirements, UAT, and data validation.
+      Collaborated on <strong>requirements</strong>, <strong>UAT</strong>, and <strong>data validation</strong>.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
@@ -183,11 +183,11 @@ Below is a detailed timeline of my professional journey:
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Collaborated on requirements, UAT, and data validation.
+      Collaborated on <strong>requirements</strong>, <strong>UAT</strong>, and <strong>data validation</strong>.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Supported ERP data preparation, testing, and implementation.
+      Supported <strong>ERP data preparation</strong>, <strong>testing</strong>, and <strong>implementation</strong>.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
