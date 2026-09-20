@@ -109,11 +109,11 @@ Below is a detailed timeline of my professional journey:
   <ul style="margin: 0; padding-left: 0; list-style-type: none; color: #334155; font-size: 0.95rem; line-height: 1.7;">
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Gathered requirements and prepared <strong>BRD, SRS and related documentation</strong>.
+      Gathered requirements and prepared <strong>BRD, SRS</strong>, and <strong>related documentation</strong>.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Coordinated <strong>Development, QA and UI/UX</strong> teams throughout the <strong>SDLC</strong>.
+      Coordinated <strong>Development, QA</strong>, and <strong>UI/UX</strong> teams throughout the <strong>SDLC</strong>.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
