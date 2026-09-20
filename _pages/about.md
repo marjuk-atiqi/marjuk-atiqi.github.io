@@ -14,7 +14,7 @@ redirect_from:
 
 ---
 
-I am Mim Marjuk Atiqi, a seasoned Project Manager and Business Analyst with over 13 years of experience in driving digital transformation, ERP implementations, and business process optimization. My professional focus lies in bridging the gap between complex technical requirements and strategic business goals, consistently delivering high-quality, scalable solutions.
+I am Mim Marjuk Atiqi, a seasoned professional in project management, business analysis, and ERP implementation expertise with over 13 years of experience in driving digital transformation and business process optimization. My professional focus lies in bridging the gap between complex technical requirements and strategic business goals, consistently delivering high-quality, scalable solutions.
 
 Throughout my career, I have successfully led cross-functional teams using Agile, Scrum, and Waterfall methodologies, and orchestrated end-to-end custom ERP lifecycles.
 
