@@ -39,19 +39,31 @@ Below is a detailed timeline of my professional journey:
   <ul style="margin: 0; padding-left: 0; list-style-type: none; color: #334155; font-size: 0.95rem; line-height: 1.7;">
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Led cross-functional teams to meet project milestones and stakeholder expectations using Agile, Scrum, and Waterfall methodologies.
+      Manage multiple projects, resources, priorities, risks and timelines.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Managed multiple projects, balancing resource allocation, budget tracking, and timelines to ensure high-quality delivery.
+      Lead cross-functional teams to achieve project milestones and delivery goals.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Improved project tracking and reporting efficiency by implementing JIRA.
+      Manage project scope, quality, schedule and resource allocation.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Prepared clear documentation and executive-ready status reports for stakeholders.
+      Apply Agile, Scrum and Waterfall methodologies according to project needs.
+    </li>
+    <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
+      <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
+      Redesigned fragmented HRM interfaces and consolidated repetitive master-data entry into unified forms, simplifying daily transactions.
+    </li>
+    <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
+      <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
+      Redesigned HRM interfaces to simplify navigation and improve usability.
+    </li>
+    <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
+      <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
+      Introduced and integrated an Advance Salary Collection feature into HRM, eliminating separate manual request and approval handling.
     </li>
   </ul>
 </div>
