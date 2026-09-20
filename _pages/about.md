@@ -10,7 +10,7 @@ redirect_from:
 <div style="background-color: #ffffff; border: 1px solid #e2e8f0; border-radius: 12px; padding: 35px; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.05);">
 
 <p style="font-size: 1.05rem; line-height: 1.8; color: #334155; margin-bottom: 20px;">
-I am Mim Marjuk Atiqi, a seasoned professional in <strong>project management, business analysis, and ERP implementation expertise</strong> with over 13 years of experience in driving digital transformation and business process optimization. My professional focus lies in bridging the gap between complex technical requirements and strategic business goals, consistently delivering high-quality, scalable solutions.
+I am Mim Marjuk Atiqi, a seasoned professional in <strong>project management</strong>, business analysis</strong>, and <strong>ERP implementation expertise</strong> with over 13 years of experience in driving digital transformation and business process optimization. My professional focus lies in bridging the gap between complex technical requirements and strategic business goals, consistently delivering high-quality, scalable solutions.
 </p>
 
 <p style="font-size: 1.05rem; line-height: 1.8; color: #334155; margin-bottom: 35px;">
