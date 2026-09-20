@@ -55,15 +55,15 @@ Below is a detailed timeline of my professional journey:
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Redesigned fragmented <strong>HRM interfaces</strong>strong> and consolidated repetitive master-data entry into unified forms, simplifying daily transactions.
+      Redesigned fragmented <strong>HRM interfaces</strong> and consolidated repetitive master-data entry into unified forms, simplifying daily transactions.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Redesigned <strong>HRM interfaces</strong>strong> to simplify navigation and improve usability.
+      Redesigned <strong>HRM interfaces</strong> to simplify navigation and improve usability.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Introduced and integrated an <strong>Advance Salary Collection</strong>strong> feature into HRM, eliminating separate manual request and approval handling.
+      Introduced and integrated an <strong>Advance Salary Collection</strong> feature into HRM, eliminating separate manual request and approval handling.
     </li>
   </ul>
 </div>
@@ -94,7 +94,7 @@ Below is a detailed timeline of my professional journey:
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Oversaw WordPress Development, Graphics Design and QA teams in addition to core PM responsibilities.
+      Oversaw <strong>WordPress Development</strong>strong>, <strong>Graphics Design</strong>strong>, and <strong>QA teams</strong>strong> in addition to core PM responsibilities.
     </li>
   </ul>
 </div>
@@ -109,11 +109,11 @@ Below is a detailed timeline of my professional journey:
   <ul style="margin: 0; padding-left: 0; list-style-type: none; color: #334155; font-size: 0.95rem; line-height: 1.7;">
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Gathered requirements and prepared BRD, SRS and related documentation.
+      Gathered requirements and prepared <strong>BRD, SRS and related documentation</strong>.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Coordinated Development, QA and UI/UX teams throughout the SDLC.
+      Coordinated <strong>Development, QA and UI/UX</strong> teams throughout the <strong>SDLC</strong>.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
@@ -125,15 +125,15 @@ Below is a detailed timeline of my professional journey:
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Led end-to-end customized ERP implementation for BOF, transforming manual processes into an integrated digital system.
+      Led end-to-end customized <strong>ERP implementation for BOF</strong>, transforming manual processes into an integrated digital system.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Reduced a nearly 3-month manual procurement process to minutes through workflow automation.
+      Reduced a nearly <strong>3-month manual procurement process to minutes</strong> through workflow automation.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Integrated MIS and BIS modules for PKSF, reducing manual data consolidation and improving information access.
+      Integrated <strong>MIS and BIS modules for PKSF</strong>, reducing manual data consolidation and improving information access.
     </li>
   </ul>
 </div>
@@ -191,7 +191,7 @@ Below is a detailed timeline of my professional journey:
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Contributed to Oracle EBS implementations across four group companies: The Metal, Navan Engineering, Navan LPG and Jamuna Future Park.
+      Contributed to Oracle EBS implementations across <strong>four group companies:</strong> The Metal, Navan Engineering, Navan LPG and Jamuna Future Park.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
@@ -210,11 +210,11 @@ Below is a detailed timeline of my professional journey:
   <ul style="margin: 0; padding-left: 0; list-style-type: none; color: #334155; font-size: 0.95rem; line-height: 1.7;">
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Developed business applications using Oracle Forms and Reports.
+      Developed business applications using <strong>Oracle Forms and Reports</strong>.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Developed and optimized SQL/PLSQL for efficient data processing.
+      Developed and optimized <strong>SQL/PLSQL</strong> for efficient data processing.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
