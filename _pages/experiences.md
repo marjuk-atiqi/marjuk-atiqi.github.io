@@ -24,7 +24,7 @@ title: "Professional Experiences"
 </style>
 
 <p style="margin-bottom: 30px; font-size: 1rem; color: #475569; line-height: 1.6;">
-With over 13 years of extensive professional experience, I have developed a strong foundation in Project Management, Business Analysis, and ERP implementation. I specialize in bridging the gap between business requirements and technical solutions, consistently driving process improvements and digital transformation across diverse sectors.
+IT professional with 13+ years of experience in Project Management and Business Analysis, leading ERP implementation, digital transformation, and cross-functional software delivery projects across manufacturing, healthcare, and finance sectors. Skilled in Agile, Scrum, and Waterfall project management methodologies, requirements gathering and documentation (BRD/SRS), stakeholder management, and Oracle EBS / Oracle Forms ERP solutions. Proven track record in managing project scope, budget, timelines, and quality while coordinating UAT, resource allocation, and executive reporting. Oracle-certified in PL/SQL, SQL, and Forms Development.
 <br><br>
 Below is a detailed timeline of my professional journey:
 </p>
