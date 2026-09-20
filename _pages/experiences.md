@@ -78,19 +78,19 @@ Below is a detailed timeline of my professional journey:
   <ul style="margin: 0; padding-left: 0; list-style-type: none; color: #334155; font-size: 0.95rem; line-height: 1.7;">
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Orchestrated project lifecycles from initiation to delivery, strictly adhering to scope, budget, and timeline.
+      Manage multiple projects, resources, priorities, risks and timelines.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Managed budgets and resources to maximize cost efficiency and ensure a positive ROI.
+      Manage project scope, quality, schedule and resource allocation.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Enhanced project coordination and reporting by utilizing ClickUp.
+      Apply Agile, Scrum and Waterfall based on project needs.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Applied flexible project management frameworks (Agile, Scrum, Waterfall) tailored to specific project needs.
+      Oversaw WordPress Development, Graphics Design and QA teams in addition to core PM responsibilities.
     </li>
   </ul>
 </div>
@@ -105,19 +105,31 @@ Below is a detailed timeline of my professional journey:
   <ul style="margin: 0; padding-left: 0; list-style-type: none; color: #334155; font-size: 0.95rem; line-height: 1.7;">
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Supervised the development team to successfully deliver customized ERP solutions.
+      Gathered requirements and prepared BRD, SRS and related documentation.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Gathered complex requirements and formulated comprehensive documentation, including BRD (Business Requirement Document) and SRS (Software Requirement Specification).
+      Coordinated Development, QA and UI/UX teams throughout the SDLC.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Collaborated extensively with UI/UX designers, developers, and QA teams to refine and deliver critical product features.
+      Managed stakeholder workshops, UAT, Agile activities and solution delivery.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Managed Agile projects, coordinated User Acceptance Testing (UAT), and optimized workflows for enhanced operational efficiency.
+      Optimized workflows and translated requirements into technical solutions.
+    </li>
+    <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
+      <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
+      Led end-to-end customized ERP implementation for BOF, transforming manual processes into an integrated digital system.
+    </li>
+    <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
+      <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
+      Reduced a nearly 3-month manual procurement process to minutes through workflow automation.
+    </li>
+    <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
+      <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
+      Integrated MIS and BIS modules for PKSF, reducing manual data consolidation and improving information access.
     </li>
   </ul>
 </div>
@@ -132,19 +144,23 @@ Below is a detailed timeline of my professional journey:
   <ul style="margin: 0; padding-left: 0; list-style-type: none; color: #334155; font-size: 0.95rem; line-height: 1.7;">
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Delivered end-to-end Oracle EBS ERP implementations, managing the full lifecycle from system setup to go-live support.
+      Supported Oracle EBS implementation from setup to post-go-live.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Collaborated with cross-functional teams to align Oracle EBS solutions with overarching organizational objectives.
+      Collaborated on requirements, UAT, and data validation.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Conducted comprehensive User Acceptance Testing (UAT) to ensure system functionality met all business requirements.
+      Conducted user training and prepared implementation documentation.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Provided ongoing post-implementation support, troubleshooting, and continuous system enhancements.
+      Provided troubleshooting, enhancements and post-go-live support.
+    </li>
+    <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
+      <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
+      Supported standardized ERP processes through structured UAT, training, documentation and data validation activities.
     </li>
   </ul>
 </div>
@@ -159,19 +175,23 @@ Below is a detailed timeline of my professional journey:
   <ul style="margin: 0; padding-left: 0; list-style-type: none; color: #334155; font-size: 0.95rem; line-height: 1.7;">
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Played a key role in Oracle EBS ERP implementation, driving the process from initial setup to successful go-live.
+      Supported Oracle EBS implementation from setup to post-go-live.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Collaborated with cross-functional teams to integrate Oracle EBS solutions seamlessly.
+      Collaborated on requirements, UAT, and data validation.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Ensured strong alignment between technical deliverables and business objectives.
+      Supported ERP data preparation, testing, and implementation.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Managed UAT processes and provided comprehensive post-implementation support and troubleshooting.
+      Contributed to Oracle EBS implementations across four group companies: The Metal, Navan Engineering, Navan LPG and Jamuna Future Park.
+    </li>
+    <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
+      <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
+      Supported standardized ERP processes through structured UAT, training, documentation and data validation activities.
     </li>
   </ul>
 </div>
@@ -186,15 +206,15 @@ Below is a detailed timeline of my professional journey:
   <ul style="margin: 0; padding-left: 0; list-style-type: none; color: #334155; font-size: 0.95rem; line-height: 1.7;">
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Designed and developed robust applications using Oracle Forms and Reports to support core business operations.
+      Developed business applications using Oracle Forms and Reports.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Authored and optimized complex SQL and PL/SQL scripts for highly efficient data processing.
+      Developed and optimized SQL/PLSQL for efficient data processing.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Built user-friendly Oracle Forms and performed thorough unit testing to support robust data analysis.
+      Conducted system testing and prepared reports to support business requirements.
     </li>
   </ul>
 </div>
