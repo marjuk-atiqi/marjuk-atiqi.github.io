@@ -55,15 +55,15 @@ Below is a detailed timeline of my professional journey:
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Redesigned fragmented **HRM interfaces** and consolidated repetitive master-data entry into unified forms, simplifying daily transactions.
+      Redesigned fragmented <strong>HRM interfaces</strong>strong> and consolidated repetitive master-data entry into unified forms, simplifying daily transactions.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Redesigned **HRM interfaces** to simplify navigation and improve usability.
+      Redesigned <strong>HRM interfaces</strong>strong> to simplify navigation and improve usability.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Introduced and integrated an **Advance Salary Collection** feature into HRM, eliminating separate manual request and approval handling.
+      Introduced and integrated an <strong>Advance Salary Collection</strong>strong> feature into HRM, eliminating separate manual request and approval handling.
     </li>
   </ul>
 </div>
