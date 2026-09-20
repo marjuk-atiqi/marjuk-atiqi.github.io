@@ -82,11 +82,15 @@ Below is a detailed timeline of my professional journey:
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
+      Lead cross-functional teams to achieve project milestones and delivery goals.
+    </li>
+    <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
+      <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
       Manage project scope, quality, schedule and resource allocation.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
-      Apply Agile, Scrum and Waterfall based on project needs.
+      Apply Agile, Scrum and Waterfall methodologies according to project needs.
     </li>
     <li style="position: relative; padding-left: 24px; margin-bottom: 8px;">
       <span style="position: absolute; left: 0; color: #94a3b8;">→</span>
